@@ -1,0 +1,32 @@
+{
+  "memo": [
+    {
+      "title": "Strinig to int",
+      "body": "",
+      "code": "int /*int*/ = Integer.parseInt(/*string*/);\n",
+      "category": 1,
+      "id": 1
+    },
+    {
+      "title": "int to String",
+      "body": "",
+      "code": "String /* string */ = Integer.toString(/* int */);",
+      "category": 1,
+      "id": 2
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "name": "SEARCH"
+    },
+    {
+      "id": 2,
+      "name": "ERROR"
+    },
+    {
+      "id": 3,
+      "name": "COMMON"
+    }
+  ]
+}
